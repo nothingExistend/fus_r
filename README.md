@@ -9,4 +9,12 @@
     - soundcloud
     - youtube music (unsure)
  
-- 
+- planned OS support:
+    - Windows
+    - Linux
+    - Android
+## concept
+
+- Touch and mouse optimized GUI (Python GUI/HTML,CSS GUI)
+- possibility to choose only one streaming service to use as normal
+- possibility to create service-overlapping playlists
