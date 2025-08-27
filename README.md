@@ -18,3 +18,5 @@
 - Touch and mouse optimized GUI (Python GUI/HTML,CSS GUI)
 - possibility to choose only one streaming service to use as normal
 - possibility to create service-overlapping playlists
+---
+- API's need user login for service, login data stored in .txt or .json file
