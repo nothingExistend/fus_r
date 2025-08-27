@@ -13,6 +13,7 @@
     - Windows
     - Linux
     - Android
+
 ## concept
 
 - Touch and mouse optimized GUI (Python GUI/HTML,CSS GUI)
@@ -20,3 +21,4 @@
 - possibility to create service-overlapping playlists
 ---
 - API's need user login for service, login data stored in .txt or .json file
+- 
