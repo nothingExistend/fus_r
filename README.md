@@ -20,7 +20,7 @@
 
 ## roadmap
 
-- creating pywebview applycation
+- creating pywebview application
 - installer/update programm for dependencies
 - porting for Android and Linux
 - Recreating for iOS (💀)
